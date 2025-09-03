@@ -1,7 +1,9 @@
 body {
     color: rgb(0, 0, 0)
     background: rgb(107, 0, 232)
+    margin: 0px;
 }
 header {
-    border: solid 2px (255, 0, 0)
+    border-bottom: solid 2px (255, 0, 0)
+    padding: 20px;
 }
